@@ -1,0 +1,4 @@
+npm install react-scripts
+npm i emoji-picker-react
+npm install react-slick --save
+npm install slick-carousel --save
